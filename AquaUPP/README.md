@@ -21,7 +21,8 @@ Este repositorio corresponde a una **reconstrucción funcional del prototipo**, 
 
 ## Autor
 
-Jafet Aguilar Hernández
-Irving Daniel Neria Guitierrez
-Jesus Emiliano Ceron Perez
-Brayan Pedro Avendaño
+Jafet Aguilar Hernández,
+Irving Daniel Neria Guitierrez,
+Jesus Emiliano Ceron Perez,
+Brayan Pedro Avendaño,
+
