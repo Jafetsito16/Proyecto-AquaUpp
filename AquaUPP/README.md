@@ -1,6 +1,6 @@
 # AquaUPP
 
-Repositorio del frontend del proyecto **AquaUPP**, una Progressive Web App orientada al monitoreo y gestión de captación de agua de lluvia en comunidades rurales.
+Repositorio del frontend del proyecto **AquaUPP**, una Progressive Web App(PWA) orientada al monitoreo y gestión de captación de agua de lluvia con sensores que envian los datos a la aplicación y sers uilizada en comunidades rurales.
 
 ## Descripción
 
@@ -25,4 +25,5 @@ Jafet Aguilar Hernández,
 Irving Daniel Neria Guitierrez,
 Jesus Emiliano Ceron Perez,
 Brayan Pedro Avendaño,
+
 
